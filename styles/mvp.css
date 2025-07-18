@@ -70,7 +70,6 @@ body {
     padding: 0;
 }
 
-footer,
 header,
 main {
     margin: 0 auto;
@@ -154,7 +153,6 @@ nav {
     display: flex;
     font-weight: bold;
     justify-content: space-between;
-    margin-bottom: 7rem;
 }
 
 nav ul {
